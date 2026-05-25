@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "What is DIAL?",
+      "answer": "DIAL stands for Deterministic Integrator of Applications and is an open-source AI framework with an API-first approach for building custom applications to tackle complex problems using LLMs.",
+      "relevant_context": [
+        {"transcript_id": "AI DIAL Overview", "start_time": "00:00:18.590", "end_time": "00:00:28.480"},
+        {"transcript_id": "AI DIAL Overview", "start_time": "00:02:30.910", "end_time": "00:02:40.120"}
+      ]
+    },
+    {
+      "question": "What is the DIAL Marketplace?",
+      "answer": "The DIAL Marketplace is a centralized hub of all accessible models, applications, and assistants within the DIAL enterprise ecosystem.",
+      "relevant_context": [
+        {"transcript_id": "DIAL Marketplace", "start_time": "00:00:08.950", "end_time": "00:00:18.880"}
+      ]
+    },
+    {
+      "question": "What programming framework is used to develop DIAL applications?",
+      "answer": "DIAL applications are developed using LangChain along with the DIAL SDK and deployment package.",
+      "relevant_context": [
+        {"transcript_id": "DIAL for Developers: AI DataViz", "start_time": "00:01:28.910", "end_time": "00:01:37.200"},
+        {"transcript_id": "DIAL for Developers: Part 2 - Developing Your First DIAL Application", "start_time": "00:00:08.950", "end_time": "00:00:18.880"}
+      ]
+    },
+    {
+      "question": "How can DIAL be integrated with Microsoft Copilot Studio?",
+      "answer": "DIAL applications can be called from Microsoft Copilot Studio while preserving conversation context.",
+      "relevant_context": [
+        {"transcript_id": "DIAL Integrations: Part 1 - Calling DIAL Applications from Microsoft Copilot Studio", "start_time": "00:03:00.949", "end_time": "00:03:09.319"}
+      ]
+    },
+    {
+      "question": "What are DIAL Quick Apps?",
+      "answer": "DIAL Quick Apps are low-code applications built with DIAL's application server and Marketplace features, allowing users to quickly create apps for specific tasks.",
+      "relevant_context": [
+        {"transcript_id": "DIAL Quick Apps", "start_time": "00:00:15.470", "end_time": "00:00:24.480"}
+      ]
+    },
+    {
+      "question": "How can DIAL be deployed from Google Cloud Marketplace?",
+      "answer": "DIAL can be deployed from the Google Cloud Marketplace and users can sign in to explore all DIAL features.",
+      "relevant_context": [
+        {"transcript_id": "DIAL Deployment from Google Cloud Marketplace", "start_time": "00:02:05.350", "end_time": "00:02:05.360"}
+      ]
+    }
+  ]
+}
